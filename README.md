@@ -1,3 +1,3 @@
 # Image-Gallery
 
-Live example : https://codesandbox.io/s/image-gallery-4obbg
+Live example here: https://codesandbox.io/s/image-gallery-4obbg
